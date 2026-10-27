@@ -61,8 +61,3 @@ Ce projet se présente sous forme d’un **notebook Jupyter** :
 
 Projet réalisé dans le cadre du **TIPE** (Travaux d'Initiative Personnelle Encadrés), filière MP 2025. Ce travail m’a permis de mettre en œuvre des compétences en **algorithmique**, **visualisation mathématique** et **programmation scientifique**, en lien avec mes intérêts en **informatique et géométrie algorithmique**.
 
----
-
-## Contact
-
-N'hésitez pas à me contacter si vous avez des questions ou suggestions à propos du projet.
